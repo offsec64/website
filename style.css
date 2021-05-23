@@ -1,0 +1,63 @@
+img.header{
+	margin-top: 2%;
+	margin-bottom: 1%;
+}
+
+table{
+	width: 90%;
+}
+
+hr{
+	width: 20%;
+}
+
+td{
+	width: 50%;
+}
+
+.portfolio img{
+	padding: 20px;
+	size: 90%;
+	width: 100%;
+}
+
+.portfolio img:hover{
+	transition: all .4s ease;
+	-webkit-transition: all .4s ease;
+	opacity:95%;
+	size: 100%
+}
+
+.portfolio h1{
+	font-family: "Bebas Neue";
+	text-align: center;
+}
+
+.portfolio p{
+	font-family: roboto;
+	text-align: center;
+}
+
+html{
+    background: #111111;
+}
+
+body{
+    background-color: white;
+    margin: 1%
+}
+
+footer{
+	padding: 20px;
+	font-family: roboto;
+	text-align: center;
+}
+
+span.menu a{
+	padding-left: 3px;
+	padding-right: 3px;
+	font-size: 22px;
+	font-family: "Bebas Neue";
+	font-weight: bold;
+	color: black;
+}
